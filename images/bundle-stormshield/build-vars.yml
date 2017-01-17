@@ -1,0 +1,8 @@
+---
+bundle:
+  name: bundle-stormshield
+  img_base: ca96a101-5de1-4ee5-a760-fcef88b08be8
+  properties:
+    img_os: Ubuntu
+    cw_bundle: STORMSHIELD
+    cw_origin: Cloudwatt
