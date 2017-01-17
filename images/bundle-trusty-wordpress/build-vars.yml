@@ -1,7 +1,7 @@
 ---
 bundle:
   name: bundle-trusty-wordpress
-  img_base: ae3082cb-fac1-46b1-97aa-507aaa8f184f
+  img_base: 6622878a-c762-4a88-b594-c30f255dcc06
   properties:
     img_os: Ubuntu
     cw_bundle: WORDPRESS
