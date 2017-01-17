@@ -11,6 +11,7 @@
         {
             "type": "openstack",
             "ssh_username": "admin",
+            "ssh_password": "CloudStorm16",
             "flavor": "{{ user `build_flavor` }}",
             "image_name": "{{ user `image_name` }}",
             "source_image": "{{ user `source_image` }}",
